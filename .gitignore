@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files
+data/
+datasets/
+
+# Tabular data
+*.csv
+*.parquet
+*.xlsx
+*.xls
+
+# Serialized datasets
+*.pkl
+*.pickle
+*.joblib
